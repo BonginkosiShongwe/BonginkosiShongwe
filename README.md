@@ -1,7 +1,7 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Bonginkosi</h1>
-<h3 align="center">👋 An aspiring IT professional currently pursuing a degree in Computer Science and Business Management. 🚀</h3>
+<h3 align="center">👋 An aspiring IT professional currently pursuing a degree in Computer Science and Business Management. 🎓 As a passionate student, I am constantly expanding my knowledge in the dynamic world of technology. My interests lie at the intersection of computer science and business, where innovation and strategic thinking converge. 💻 I am eager to collaborate on exciting projects that challenge and enhance my skills. Whether it's coding, problem-solving, or bringing creative ideas to life, I'm ready to contribute and learn from the collaborative GitHub community. 🤝 Open to opportunities: I am actively seeking entry-level part-time positions to gain hands-on experience. I believe in the value of learning through real-world projects, and I'm even open to unpaid opportunities that offer valuable insights and a chance to make a meaningful impact.
+
+🌐 Let's connect and explore the possibilities of creating something amazing together!🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bonginkosishongwe&label=Profile%20views&color=0e75b6&style=flat" alt="bonginkosishongwe" /> </p>
 
